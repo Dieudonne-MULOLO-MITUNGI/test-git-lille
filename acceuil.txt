@@ -1,5 +1,4 @@
 le fichier d'acceuil
- BUG
+ BUG corrigé
 la cprrection de bug
 correction du bug qui va generer un conflit mais ce ne pas grave
-
