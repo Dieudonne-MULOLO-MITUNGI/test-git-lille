@@ -1,6 +1,5 @@
 le fichier d'acceuil
  BUG CORRIGER
 la cprrection de bug
-correction du bug qui va generer un conflit
-je suis la
-encore une ligne 
+correction du bug qui va generer un conflit mais ce ne pas grave
+
