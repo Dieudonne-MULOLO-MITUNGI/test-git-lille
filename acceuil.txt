@@ -1,2 +1,3 @@
 le fichier d'acceuil
-GROS BUG CORRIGER
+ BUG CORRIGER
+encore une ligne
